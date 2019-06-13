@@ -1,0 +1,17 @@
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\ImageTopdfApp.exe.config
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\ImageTopdfApp.exe
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\ImageTopdfApp.pdb
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.csprojAssemblyReference.cache
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.Properties.Resources.resources
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.csproj.GenerateResource.cache
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.csproj.CoreCompileInputs.cache
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.exe
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.pdb
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.Form1.resources
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\PdfSharp.Charting.dll
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\PdfSharp.dll
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\PdfSharp.xml
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\PdfSharp.Charting.xml
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\de\PdfSharp.resources.dll
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\bin\Debug\de\PdfSharp.Charting.resources.dll
+C:\Users\sadul\source\repos\ImageTopdfApp\ImageTopdfApp\obj\Debug\ImageTopdfApp.csproj.CopyComplete
